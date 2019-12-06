@@ -10,7 +10,7 @@ end
 gem 'rails', '~> 5.1.2'
 # gem 'sqlite3'
 gem 'pg'
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 3.12'
 gem 'rack-cors', :require => 'rack/cors'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
